@@ -4,5 +4,8 @@
             "name" :"school",
             "user" :"",
             "password" :""
+    },
+    "app": {
+      "SECRET_KEY" :"flask_app_config"
     }
 }
