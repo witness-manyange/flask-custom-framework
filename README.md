@@ -10,6 +10,7 @@ This framework helps manage Mongo DB transactions along with The Flask Framework
     - validation.py
   - models
     - department.py
+    - user.py
   - app.py
   - config.py
   - db_config.json
