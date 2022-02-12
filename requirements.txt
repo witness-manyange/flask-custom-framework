@@ -1,0 +1,4 @@
+flask~=2.0.2
+flask-pymongo
+flask_cors
+pymongo~=4.0.1
